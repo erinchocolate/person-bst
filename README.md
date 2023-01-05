@@ -15,5 +15,5 @@ The app stores person's first name, last name and age in multiple BST.
 
 ## Demo 
 
-![PersonBST](https://github.com/erinchocolate/swen502/blob/master/PersonApp/Demo.gif)
+![PersonBST](https://github.com/erinchocolate/person-bst/blob/master/Demo.gif)
 
